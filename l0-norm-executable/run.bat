@@ -1,0 +1,1 @@
+l0_norm.exe -i .\\images\\ -t 0.02

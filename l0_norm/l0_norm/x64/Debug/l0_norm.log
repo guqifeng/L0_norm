@@ -1,0 +1,15 @@
+﻿  main.cpp
+d:\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\l0_norm\l0_norm\main.cpp(376): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+f:\l0_norm\l0_norm\main.cpp(147): warning C4101: “end”: 未引用的局部变量
+f:\l0_norm\l0_norm\main.cpp(147): warning C4101: “start”: 未引用的局部变量
+f:\l0_norm\l0_norm\main.cpp(148): warning C4101: “time”: 未引用的局部变量
+f:\l0_norm\l0_norm\main.cpp(151): warning C4101: “curThresh”: 未引用的局部变量
+f:\l0_norm\l0_norm\main.cpp(410): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+f:\l0_norm\l0_norm\main.cpp(411): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+f:\l0_norm\l0_norm\main.cpp(412): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+  l0_norm.vcxproj -> F:\l0_norm\x64\Debug\l0_norm.exe
+  l0_norm.vcxproj -> F:\l0_norm\x64\Debug\l0_norm.pdb (Full PDB)
